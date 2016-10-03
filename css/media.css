@@ -1,0 +1,15 @@
+@media only screen and (min-width: 600px) {
+    .da {
+        /*height: 200px;*/
+        width: 150%;
+        margin-left: -120px;
+	}
+}
+
+
+@media only screen and (max-width: 600px) {
+    .da {
+        /*height: 200px;*/
+        width: 100%;
+	}
+}
